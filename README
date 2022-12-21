@@ -1,0 +1,7 @@
+1) Install MGLTools (https://ccsb.scripps.edu/mgltools/)
+2) Install AutoDock Vina (https://github.com/ccsb-scripps/AutoDock-Vina/releases)
+
+Download the "compounds" folder containing the ligands for the molecular docking simulations
+
+3) Watch the video tutorial (https://www.youtube.com/watch?v=-GVZP0X0Tg8) for how to use MGLTools and AutoDock Vina 
+
